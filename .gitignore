@@ -1,0 +1,12 @@
+\tmp
+\tensort
+\freqtrade-strategies
+\freqtrade
+\docs
+\*.ipynb
+**/.json
+user_data/*
+!/user_data/strategies/
+\ipynb
+*.yml
+*.code-workspace
